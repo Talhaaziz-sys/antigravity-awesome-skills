@@ -185,6 +185,7 @@ If you want a faster answer than "browse all 1,306+ skills", start with a tool-s
 - **[Cursor skills](docs/users/cursor-skills.md)**: best starter skills for `.cursor/skills/`, UI-heavy work, and pair-programming flows.
 - **[Codex CLI skills](docs/users/codex-cli-skills.md)**: planning, implementation, debugging, and review skills for local coding loops.
 - **[Gemini CLI skills](docs/users/gemini-cli-skills.md)**: starter stack for research, agent systems, integrations, and engineering workflows.
+- **[Antigravity skills](docs/users/antigravity-skills.md)**: skills built specifically for Antigravity, including design, orchestration, workflow, and session analysis skills.
 - **[AI agent skills guide](docs/users/ai-agent-skills.md)**: how to evaluate skill libraries, choose breadth vs curation, and pick the right starting point.
 
 ## Security Posture
